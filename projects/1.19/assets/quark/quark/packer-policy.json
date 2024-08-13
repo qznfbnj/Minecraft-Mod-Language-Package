@@ -1,0 +1,12 @@
+[
+    {
+        "type": "singleton",
+        "source": "projects/1.19/assets/quark/quark/lang/zh_cn.json",
+        "relativePath": "lang/zh_cn.json"
+    },
+    {
+        "type": "singleton",
+        "source": "projects/1.19/assets/quark/quark/lang/zh_cn-config.json",
+        "relativePath": "lang/zh_cn.json"
+    }
+]
